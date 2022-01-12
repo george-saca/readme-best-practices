@@ -11,7 +11,7 @@ Copy the `README-default.md` file for yourself and start editing! At the root of
 your project, run:
 
 ```shell
-curl https://raw.githubusercontent.com/jehna/readme-best-practices/master/README-default.md > README.md
+curl https://raw.githubusercontent.com/george-saca/readme-best-practices/master/README-default.md > README.md
 ```
 
 The code above fetches the `README-default.md` file from this repository and
@@ -21,7 +21,6 @@ renames it to `README.md`.
 
 The default template has some guiding text to get you started. However you'll
 need to edit the file with your own text to use it with your project.
-
 
 ```shell
 atom README.md
