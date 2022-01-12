@@ -22,6 +22,7 @@ renames it to `README.md`.
 The default template has some guiding text to get you started. However you'll
 need to edit the file with your own text to use it with your project.
 
+
 ```shell
 atom README.md
 ```
